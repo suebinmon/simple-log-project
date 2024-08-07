@@ -1,0 +1,56 @@
+# Gradle specific
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+.gradle_cache/
+.gradle-cache/
+.gradle-build/
+
+# Eclipse specific
+.classpath
+.project
+.settings/
+bin/
+
+# IntelliJ IDEA specific
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+*.log
+
+# MacOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+desktop.ini
+
+# Java specific
+*.class
+*.war
+*.ear
+*.jar
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+tmp/
+*.tmp
+*.swp
+*~ 
+
+# Dependency directories
+lib/
+node_modules/
+
+# IDE Specific files
+.vscode/
+
+# Environment variable files
+.env
+.env.local
+.env.*.local

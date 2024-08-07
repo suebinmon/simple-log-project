@@ -1,0 +1,3 @@
+rootProject.name = 'simple-log-project'
+include 'simple-log'
+include 'simple-log-example'
