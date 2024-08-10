@@ -31,7 +31,6 @@ desktop.ini
 *.class
 *.war
 *.ear
-*.jar
 
 # Logs
 logs/
